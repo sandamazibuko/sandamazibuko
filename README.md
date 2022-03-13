@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandamazibuko
 - 👀 I’m interested in risk prediction modeling at the moment. 
-- 🌱 I’m currently learning spatial analysis, building a risk prediction model and graph theory
+- 🌱 I’m currently learning spatial analysis,graph theory and building a risk prediction model.
 - 💞️ I’m looking to collaborate on graph theory and spatial analysis
 - 📫 How to reach me: AHRI.org
 
